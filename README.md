@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🎓 Currently pursuing B.Tech in Computer Science under a college affiliated with RTU
+
 - 🌱 Learning C, and building a foundation in Full Stack Web Development
 - 🤖 Exploring how AI tools can help build and prototype websites faster
 - 📊 Just getting started with Data Science — early days, but curious and consistent
